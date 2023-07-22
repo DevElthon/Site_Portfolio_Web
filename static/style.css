@@ -1,15 +1,17 @@
 html{
     background-image: url("/static/images/background.jpg");
+    max-width: 1920px;
+    width: 100%;
 }
 
 .full_intro{
+    width: 100%;
     margin-top: 150px;
-    margin-right: 300px;
 }
 
 .intro{
     position: absolute;
-    margin-left: 26%;
+    margin-left: 28%;
     margin-top: -10px;
     color: white;
 }
@@ -18,19 +20,20 @@ html{
     font-size: 160px;
     width: 300px;
     align-items: right;
-    margin-left: 32%;
+    margin-left: 28%;
     color: white;
 }
 
 .grupo_icones{
     position: absolute;
     margin-left: 55%;
+    margin-right: 25%;
     margin-top: -260px;
     color: white;
 }
 
 .text{
-    margin-left: 55%;
+    margin-left: 45%;
     width: 400px;
     color: white;
 }
@@ -65,7 +68,6 @@ main{
 }
 
 .discrip_psico{
-    top: 1000px;
     margin-left: 250px;
 }
 .discrip_psico h4{
@@ -106,7 +108,7 @@ footer{
     text-align: center;
     align-items: center;
     color: white;
-    height: 200px;
+    height: 180px;
 }
 
 footer h3{
@@ -114,5 +116,5 @@ footer h3{
 }
 
 footer p{
-    margin-top: 100px;
+    margin-top: 5%;
 }
