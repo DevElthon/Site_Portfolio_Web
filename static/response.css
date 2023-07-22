@@ -1,1187 +1,2822 @@
 @media (max-width:1920px){
     .full_intro{
         width: 100%;
-        margin-top: 150px;
+        margin-top: 15%;
     }
-    
     .intro{
-        position: absolute;
-        margin-left: 35%;
-        margin-top: -10px;
+        margin-left: 25%;
+        margin-top: -1%;
         color: white;
     }
-    
     .dev_title{
-        font-size: 160px;
+        font-size: 220px;
         width: 300px;
         align-items: right;
-        margin-left: 35%;
+        margin-left: 25%;
         color: white;
     }
-    
     .grupo_icones{
-        position: absolute;
-        margin-left: 60%;
-        margin-right: 25%;
-        margin-top: -260px;
+        margin-left: 55%;
+        margin-top: -18%;
         color: white;
     }
-    
     .text{
-        margin-left: 50%;
+        margin-top: 16%;
+        margin-left: 45%;
         width: 400px;
         color: white;
     }
 
     main{
-        height: 1100px;
+        background-image: url("/static/images/background2.jpg");
+        margin-top: 15%;
+        width: 100%;
+        height: 1200px;
     }
-    .discrip_psico{
+    .discrip_psico h3{
+        margin-top: 52%;
         position: absolute;
-        margin-top: 920px;
-        float: left;
-        margin-left: 420px;
+        margin-left: 18%;
     }
-    
-    .discrip_studio{
+    .discrip_psico .link_site{
         position: absolute;
-        margin-top: 920px;
-        margin-left: 1200px;
+        margin-top: 56%;
+        margin-left: 14%;
+    }
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 25%;
+    }
+
+    .discrip_studio h3{
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 63%;
+        text-align: center;
+        width: 20%;
     }
     .discrip_studio .link_site{
-        margin-top: 20px;
-        margin-left: 100px;
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 64%;
     }
-    
     .discrip_studio .link_repos{
-        margin-top: 20px;
-        margin-left: 60px;
-        margin-right: 40px;
-    }
-    
-    footer{
-        height: 180px;
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 75%;
     }
 }
 
 @media (max-width:1680px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
     .intro{
         margin-left: 25%;
+        margin-top: -1%;
+        color: white;
     }
-    
     .dev_title{
+        font-size: 200px;
+        width: 300px;
+        align-items: right;
         margin-left: 25%;
+        color: white;
     }
-    
     .grupo_icones{
-        margin-left: 50%;
-        margin-right: 25%;
-        margin-top: -266px;
+        margin-left: 58%;
+        margin-top: -19%;
+        color: white;
     }
     .text{
+        margin-top: 17%;
         margin-left: 45%;
+        width: 400px;
+        color: white;
     }
-
-    .portfolio_1{
-        margin-left: 40px;
-        margin-right: 80px;
-    }
-    
-    .discrip_psico{
-        margin-top: 800px;
-        margin-left: 300px;
-    }
-    
-    .portfolio_2{
-        margin-right: 40px;
-        margin-left: 80px;
-    }
-    
-    .discrip_studio .link_site{
-        float: left;
-        margin-top: 20px;
-        margin-left: 80px;
-    }
-    
-    .discrip_studio .link_repos{
-        margin-top: -20px;
-        margin-left: 260px;
-        margin-right: 40px;
-    }
-    
-    .discrip_studio{
-        margin-left: 1040px;
-        margin-top: 800px;
-    }
-    footer{
-        height: 180px;
+    .discrip_studio h3{
+        margin-left: 64%;
     }
 }
 
 @media (max-width:1536px){
+    html{
+        width: 100%;
+    }
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 180px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
+    }
     .grupo_icones{
-        margin-left: 55%;
-        margin-right: 25%;
-        margin-top: -266px;
+        margin-left: 58%;
+        margin-top: -19%;
+        color: white;
     }
-    .discrip_psico{
-        position: absolute;
-        margin-top: 740px;
-        float: left;
-        margin-left: 220px;
+    .text{
+        margin-top: 17%;
+        margin-left: 45%;
+        width: 400px;
+        color: white;
     }
-    
-    .discrip_studio{
-        position: absolute;
-        margin-top: 740px;
-        margin-left: 900px;
-    }
-    .discrip_studio .link_site{
-        margin-top: 20px;
-        margin-left: 100px;
-    }
-    
-    .discrip_studio .link_repos{
-        margin-top: 20px;
-        margin-left: 60px;
-        margin-right: 40px;
-    }
-    
-    footer{
-        height: 180px;
+    main{
+        height: 1000px;
     }
 }
 
 @media (max-width:1371px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 160px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
+    }
     .grupo_icones{
-        margin-left: 55%;
-        margin-right: 25%;
-        margin-top: -266px;
+        margin-left: 58%;
+        margin-top: -19%;
+        color: white;
     }
-    .discrip_psico{
-        position: absolute;
-        margin-top: 700px;
-        float: left;
-        margin-left: 220px;
+    .text{
+        margin-top: 17%;
+        margin-left: 45%;
+        width: 400px;
+        color: white;
     }
-    
-    .discrip_studio{
+    main{
+        height: 900px;
+    }
+    .discrip_psico h3{
+        margin-top: 52%;
         position: absolute;
-        margin-top: 700px;
-        margin-left: 800px;
+        margin-left: 17%;
+    }
+    .discrip_psico .link_site{
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 13%;
+    }
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 25%;
+    }
+
+    .discrip_studio h3{
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 64%;
+        text-align: center;
+        width: 20%;
     }
     .discrip_studio .link_site{
-        margin-top: 20px;
-        margin-left: 100px;
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 61%;
     }
-    
     .discrip_studio .link_repos{
-        margin-top: 20px;
-        margin-left: 60px;
-        margin-right: 40px;
-    }
-    
-    footer{
-        height: 180px;
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 75%;
     }
 }
 
 @media (max-width:1280px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
     .intro{
         margin-left: 25%;
+        margin-top: -1%;
+        color: white;
     }
-    
     .dev_title{
+        font-size: 150px;
+        width: 300px;
+        align-items: right;
         margin-left: 25%;
+        color: white;
     }
-    
     .grupo_icones{
-        margin-left: 60%;
-        margin-right: 25%;
-        margin-top: -266px;
+        margin-left: 58%;
+        margin-top: -19%;
+        color: white;
     }
     .text{
-        margin-left: 45%;
+        margin-top: 17%;
+        margin-left: 44%;
+        width: 350px;
+        color: white;
+    }
+    main{
+        height: 900px;
+    }
+    .discrip_psico h3{
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 17%;
+    }
+    .discrip_psico .link_site{
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 13%;
+    }
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 25%;
     }
 
-    .portfolio_1{
-        margin-left: 40px;
-        margin-right: 80px;
+    .discrip_studio h3{
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 65%;
+        text-align: center;
+        width: 20%;
     }
-    
-    .discrip_psico{
-        margin-left: 220px;
-    }
-    
-    .portfolio_2{
-        margin-right: 40px;
-        margin-left: 80px;
-    }
-    
     .discrip_studio .link_site{
-        float: left;
-        margin-top: 20px;
-        margin-left: 80px;
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 61%;
     }
-    
     .discrip_studio .link_repos{
-        margin-top: -20px;
-        margin-left: 260px;
-        margin-right: 40px;
+        position: absolute;
+        margin-top: 56%;
+        margin-left: 75%;
     }
-    
-    .discrip_studio{
-        margin-left: 740px;
+}
+
+@media (max-width:1191px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    footer{
-        height: 180px;
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 110px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 55%;
+        margin-top: -19.5%;
+        color: white;
+    }
+    .text{
+        margin-top: 15%;
+        font-size: 12px;
+        margin-left: 40%;
+        width: 300px;
+        color: white;
+    }
+    main{
+        height: 800px;
+    }
+    .discrip_psico h3{
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 17%;
+    }
+    .discrip_psico .link_site{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 25%;
+    }
+
+    .discrip_studio h3{
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 60%;
+        text-align: center;
+        width: 30%;
+    }
+    .discrip_studio .link_site{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 59%;
+    }
+    .discrip_studio .link_repos{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 75%;
     }
 }
 
 @media (max-width:1024px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
     .intro{
-        margin-left: 20%;
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
     }
-    
     .dev_title{
-        margin-left: 20%;
+        font-size: 110px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
     }
-    
     .grupo_icones{
-        margin-left: 65%;
-        margin-right: 15%;
-        margin-top: -266px;
+        margin-left: 55%;
+        margin-top: -19.5%;
+        color: white;
     }
     .text{
-        margin-left: 45%;
+        margin-top: 15%;
+        font-size: 12px;
+        margin-left: 40%;
+        width: 300px;
+        color: white;
     }
     main{
-        height: 700px;
+        height: 800px;
     }
-    .portfolio_1{
-        margin-left: 30px;
-        margin-right: 60px;
-    }
-    
-    .discrip_psico{
-        margin-left: 160px;
-    }
-
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: 10px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 17%;
     }
-    
-    .portfolio_2{
-        margin-right: 30px;
-        margin-left: 60px;
+    .discrip_psico .link_site{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 10%;
     }
-    
-    .discrip_studio{
-        width: 400px;
-        margin-left: 560px;
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 25%;
     }
 
     .discrip_studio h3{
-        align-items: center;
-        width: 300px;
-        margin-left: 150px;
-        font-size: 16px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 61%;
+        text-align: center;
+        width: 30%;
     }
-    
     .discrip_studio .link_site{
-        float: left;
-        margin-top: 20px;
-        margin-left: 60px;
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 59%;
     }
-    
     .discrip_studio .link_repos{
-        margin-top: -20px;
-        margin-left: 260px;
-        margin-right: 0px;
-        width: 200px;
-    }
-    footer{
-        height: 150px;
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 75%;
     }
 }
 
 @media (max-width:912px){
-    .intro{
-        margin-left: 12%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 12%;
+        font-size: 100px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
     }
     .grupo_icones{
-        margin-left: 60%;
-        margin-right: 15%;
-        margin-top: -266px;
+        margin-left: 55%;
+        margin-top: -19.5%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 10%;
     }
     .text{
+        margin-top: 15%;
+        font-size: 12px;
         margin-left: 40%;
+        width: 300px;
+        color: white;
     }
     main{
         height: 700px;
     }
-    .portfolio_1{
-        margin-left: 30px;
-        margin-right: 60px;
-    }
-    
-    .discrip_psico{
-        margin-left: 160px;
-    }
-
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: 10px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 17%;
     }
-    
-    .portfolio_2{
-        margin-right: 30px;
-        margin-left: 60px;
+    .discrip_psico .link_site{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 10%;
     }
-    
-    .discrip_studio{
-        width: 400px;
-        margin-left: 460px;
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 25%;
     }
 
     .discrip_studio h3{
-        align-items: center;
-        width: 300px;
-        margin-left: 150px;
-        font-size: 16px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 61%;
+        text-align: center;
+        width: 30%;
     }
-    
     .discrip_studio .link_site{
-        float: left;
-        margin-top: 20px;
-        margin-left: 60px;
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 59%;
     }
-    
     .discrip_studio .link_repos{
-        margin-top: -20px;
-        margin-left: 260px;
-        margin-right: 0px;
-        width: 200px;
-    }
-    footer{
-        height: 150px;
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 75%;
     }
 }
 
 @media (max-width:820px){
-    .intro{
-        margin-left: 8%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 8%;
+        font-size: 100px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
     }
     .grupo_icones{
         margin-left: 60%;
-        margin-right: 15%;
-        margin-top: -266px;
+        margin-top: -18.5%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 10%;
     }
     .text{
+        margin-top: 15%;
+        font-size: 12px;
         margin-left: 40%;
+        width: 300px;
+        color: white;
     }
     main{
-        height: 600px;
+        margin-top: 100px;
+        height: 550px;
     }
-    .portfolio_1{
-        margin-left: 20px;
-        margin-right: 40px;
-    }
-    
-    .discrip_psico{
-        margin-left: 100px;
-    }
-
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: 10px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 17%;
     }
-    
-    .portfolio_2{
-        margin-right: 20px;
-        margin-left: 40px;
+    .discrip_psico .link_site{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 10%;
     }
-    
-    .discrip_studio{
-        width: 400px;
-        margin-left: 360px;
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 25%;
     }
 
     .discrip_studio h3{
-        align-items: center;
-        width: 300px;
-        margin-left: 150px;
-        font-size: 16px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 61%;
+        text-align: center;
+        width: 30%;
     }
-    
     .discrip_studio .link_site{
-        float: left;
-        margin-top: 20px;
-        margin-left: 20px;
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 59%;
     }
-    
     .discrip_studio .link_repos{
-        margin-top: -20px;
-        margin-left: 260px;
-        margin-right: 0px;
-        width: 200px;
-    }
-    footer{
-        height: 150px;
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 75%;
     }
 }
 
 @media (max-width:768px){
-    .intro{
-        margin-left: 6%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
+        font-size: 95px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
     }
     .grupo_icones{
         margin-left: 60%;
-        margin-right: 15%;
-        margin-top: -266px;
+        margin-top: -20.5%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 10%;
     }
     .text{
+        margin-top: 17%;
+        font-size: 12px;
         margin-left: 40%;
+        width: 300px;
+        color: white;
     }
     main{
-        height: 600px;
+        margin-top: 100px;
+        height: 550px;
     }
-    .portfolio_1{
-        margin-left: 20px;
-        margin-right: 40px;
-    }
-    
-    .discrip_psico{
-        margin-left: 80px;
-    }
-
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: 10px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 16%;
     }
-    
-    .portfolio_2{
-        margin-right: 20px;
-        margin-left: 40px;
+    .discrip_psico .link_site{
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 8%;
     }
-    
-    .discrip_studio{
-        width: 400px;
-        margin-left: 320px;
+    .discrip_psico .link_repos{
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 27%;
     }
 
     .discrip_studio h3{
-        align-items: center;
-        width: 300px;
-        margin-left: 150px;
-        font-size: 16px;
+        font-size: 17px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 58%;
+        text-align: center;
+        width: 40%;
     }
-    
     .discrip_studio .link_site{
-        float: left;
-        margin-top: 20px;
-        margin-left: 20px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 57%;
     }
-    
     .discrip_studio .link_repos{
-        margin-top: -20px;
-        margin-left: 260px;
-        margin-right: 0px;
-        width: 200px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 76%;
     }
-    footer{
-        height: 150px;
+}
+
+@media (max-width:740px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 95px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -20.5%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 10%;
+    }
+    .text{
+        margin-top: 17%;
+        font-size: 12px;
+        margin-left: 40%;
+        width: 300px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 550px;
+    }
+    .discrip_psico h3{
+        font-size: 15px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 16%;
+    }
+    .discrip_psico .link_site{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 6%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 25%;
+    }
+
+    .discrip_studio h3{
+        font-size: 15px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 58%;
+        text-align: center;
+        width: 40%;
+    }
+    .discrip_studio .link_site{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 55%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 74%;
+    }
+}
+
+@media (max-width:734px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 95px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -20.5%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 10%;
+    }
+    .text{
+        margin-top: 17%;
+        font-size: 12px;
+        margin-left: 40%;
+        width: 300px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 550px;
+    }
+    .discrip_psico h3{
+        font-size: 15px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 16%;
+    }
+    .discrip_psico .link_site{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 6%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 25%;
+    }
+
+    .discrip_studio h3{
+        font-size: 15px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 58%;
+        text-align: center;
+        width: 40%;
+    }
+    .discrip_studio .link_site{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 55%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 74%;
+    }
+}
+
+@media (max-width:680px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 25%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 95px;
+        width: 300px;
+        align-items: right;
+        margin-left: 25%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -22.5%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 10%;
+    }
+    .text{
+        margin-top: 17%;
+        font-size: 12px;
+        margin-left: 40%;
+        width: 300px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 550px;
+    }
+    .discrip_psico h3{
+        font-size: 15px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 16%;
+    }
+    .discrip_psico .link_site{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 6%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 25%;
+    }
+
+    .discrip_studio h3{
+        font-size: 15px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 58%;
+        text-align: center;
+        width: 40%;
+    }
+    .discrip_studio .link_site{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 55%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 15px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 74%;
+    }
+}
+
+@media (max-width:640px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 15%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 90px;
+        width: 300px;
+        align-items: right;
+        margin-left: 15%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 55%;
+        margin-top: -26%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 15%;
+    }
+    .text{
+        margin-top: 22%;
+        font-size: 12px;
+        margin-left: 40%;
+        width: 250px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 450px;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 15%;
+    }
+    .discrip_psico h4{
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 5%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 25%;
+    }
+
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 58%;
+        text-align: center;
+        width: 40%;
+    }
+    .discrip_studio h4{
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 55%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 74%;
+    }
+    footer p {
+        margin-top: 10%;
     }
 }
 
 @media (max-width:540px){
-    .intro{
-        margin-left: 6%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 15%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
-        font-size: 110px;
+        font-size: 80px;
+        width: 300px;
+        align-items: right;
+        margin-left: 15%;
+        color: white;
     }
     .grupo_icones{
-        position: relative;
-        margin-left: 5%;
-        margin-top: -200px;
-        width: 80%;
+        margin-left: 60%;
+        margin-top: -28%;
+        color: white;
     }
-    .grupo_icones a{
-        float: right;
+    .grupo_icones a .icone{
+        width: 15%;
     }
     .text{
-        width: 300px;
-        font-size: 14px;
-        margin-left: 30%;
-        margin-top: 210px;
+        margin-top: 22%;
+        font-size: 12px;
+        margin-left: 40%;
+        width: 250px;
+        color: white;
     }
     main{
-        height: 1280px;
-    }
-    .portfolio_1{
-        width: 80%;
-        margin-left: 50px;
-        margin-right:50px;
-        margin-top: 80px;
-    }
-    .discrip_psico{
-        margin-left: 200px;
-    }
-    .discrip_psico h4{
-        margin-left: 10px;
+        margin-top: 100px;
+        height: 450px;
     }
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: -10px;
+        font-size: 14px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 15%;
+    }
+    .discrip_psico h4{
+        font-size: 12px;
     }
     .discrip_psico .link_site{
-        margin-left: -80px;
-        font-size: 16px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 5%;
     }
     .discrip_psico .link_repos{
-        font-size: 16px;
-    }
-    
-    .portfolio_2{
-        margin-top: 80px;
-        width: 80%;
-        margin-left: 50px;
-        margin-right:50px;
-    }
-    .discrip_studio{
-        margin-top: 540px;
-        width: 400px;
-        margin-left: 10px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 25%;
     }
 
     .discrip_studio h3{
-        align-items: center;
-        width: 260px;
-        margin-left: 160px;
-        font-size: 16px;
+        font-size: 14px;
+        margin-top: 52%;
+        position: absolute;
+        margin-left: 58%;
+        text-align: center;
+        width: 40%;
+    }
+    .discrip_studio h4{
+        font-size: 12px;
     }
     .discrip_studio .link_site{
-        float: left;
-        font-size: 16px;
-        margin-top: 20px;
-        margin-left:100px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 55%;
     }
     .discrip_studio .link_repos{
-        margin-left: 260px;
-        font-size: 16px;
-        width: 200px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 59%;
+        margin-left: 74%;
     }
+    footer p {
+        margin-top: 10%;
+    }
+}
 
-    footer{
-        height: 150px;
+@media (max-width:500px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 68px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 1250px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 50%;
+    }
+    .discrip_studio h4{
+        margin-left: 42%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
+    }
+    footer h3{
+        font-size: 14px;
+    }
+    footer p {
+        margin-top: 10%;
+    }
+}
+
+@media (max-width:467px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 68px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 1200px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 50%;
+    }
+    .discrip_studio h4{
+        margin-left: 42%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
+    }
+    footer h3{
+        font-size: 14px;
+    }
+    footer p {
+        margin-top: 10%;
+    }
+}
+
+@media (max-width:440px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 68px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 1100px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 50%;
+    }
+    .discrip_studio h4{
+        margin-left: 42%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
+    }
+    footer h3{
+        font-size: 14px;
+    }
+    footer p {
+        margin-top: 10%;
+    }
+}
+
+@media (max-width:420px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
+    .dev_title{
+        font-size: 68px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
+    }
+    main{
+        margin-top: 100px;
+        height: 1100px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 50%;
+    }
+    .discrip_studio h4{
+        margin-left: 42%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
+    }
+    footer h3{
+        font-size: 14px;
+    }
+    footer p {
+        margin-top: 10%;
     }
 }
 
 @media (max-width:416px){
-    .intro{
-        margin-left: 6%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
-        font-size: 85px;
+        font-size: 68px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
     }
     .grupo_icones{
-        position: relative;
-        margin-left: 22%;
-        margin-top: -160px;
-        width: 70%;
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
     }
-    .grupo_icones a{
-        float: right;
+    .grupo_icones a .icone{
+        width: 20%;
     }
     .text{
-        width: 240px;
-        font-size: 12px;
-        margin-left: 30%;
-        margin-top: 170px;
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
     }
     main{
+        margin-top: 100px;
         height: 1100px;
     }
     .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 50px;
-        margin-right:50px;
-        margin-top: 80px;
-    }
-    .discrip_psico{
-        margin-left: 140px;
-    }
-    .discrip_psico h4{
-        margin-left: 10px;
     }
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: -10px;
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
     }
     .discrip_psico .link_site{
-        margin-left: -100px;
-        font-size: 14px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
     }
     .discrip_psico .link_repos{
-        font-size: 14px;
-        margin-left: 60px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
     }
-    
+  
     .portfolio_2{
-        margin-top: 80px;
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 50px;
-        margin-right:50px;
     }
-    .discrip_studio{
-        margin-top: 440px;
-        width: 400px;
-        margin-left: -60px;
-    }
-
     .discrip_studio h3{
-        align-items: center;
-        width: 260px;
-        margin-left: 160px;
         font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 50%;
+    }
+    .discrip_studio h4{
+        margin-left: 42%;
+        margin-top: 220%;
+        font-size: 12px;
     }
     .discrip_studio .link_site{
-        float: left;
-        font-size: 14px;
-        margin-top: 20px;
-        margin-left:100px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
     }
     .discrip_studio .link_repos{
-        margin-left: 260px;
-        font-size: 14px;
-        width: 200px;
-    }
-
-    footer{
-        height: 140px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
     }
     footer h3{
-        font-size: 16px;
+        font-size: 14px;
     }
-    
-    footer p{
+    footer p {
         margin-top: 10%;
     }
 }
 
 @media (max-width:412px){
-    .intro{
-        margin-left: 6%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
-        font-size: 85px;
+        font-size: 68px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
     }
     .grupo_icones{
-        position: relative;
-        margin-left: 22%;
-        margin-top: -160px;
-        width: 70%;
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
     }
-    .grupo_icones a{
-        float: right;
+    .grupo_icones a .icone{
+        width: 20%;
     }
     .text{
-        width: 240px;
-        font-size: 12px;
-        margin-left: 30%;
-        margin-top: 170px;
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
     }
     main{
+        margin-top: 100px;
         height: 1100px;
     }
     .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 50px;
-        margin-right:50px;
-        margin-top: 80px;
-    }
-    .discrip_psico{
-        margin-left: 140px;
-    }
-    .discrip_psico h4{
-        margin-left: 10px;
     }
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: -10px;
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
     }
     .discrip_psico .link_site{
-        margin-left: -100px;
-        font-size: 14px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
     }
     .discrip_psico .link_repos{
-        font-size: 14px;
-        margin-left: 60px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
     }
-    
+  
     .portfolio_2{
-        margin-top: 80px;
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 50px;
-        margin-right:50px;
     }
-    .discrip_studio{
-        margin-top: 440px;
-        width: 400px;
-        margin-left: -40px;
-    }
-
     .discrip_studio h3{
-        align-items: center;
-        width: 260px;
-        margin-left: 160px;
         font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 50%;
+    }
+    .discrip_studio h4{
+        margin-left: 42%;
+        margin-top: 220%;
+        font-size: 12px;
     }
     .discrip_studio .link_site{
-        float: left;
-        font-size: 14px;
-        margin-top: 20px;
-        margin-left:100px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
     }
     .discrip_studio .link_repos{
-        margin-left: 260px;
-        font-size: 14px;
-        width: 200px;
-    }
-
-    footer{
-        height: 140px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
     }
     footer h3{
-        font-size: 16px;
+        font-size: 14px;
     }
-    
-    footer p{
+    footer p {
         margin-top: 10%;
     }
 }
 
 @media (max-width:394px){
-    .intro{
-        margin-left: 6%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 5%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
-        font-size: 80px;
+        font-size: 68px;
+        width: 20px;
+        align-items: right;
+        margin-left: 5%;
+        color: white;
     }
     .grupo_icones{
-        position: relative;
-        margin-left: 32%;
-        margin-top: -155px;
-        width: 60%;
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
     }
-    .grupo_icones a{
-        float: right;
+    .grupo_icones a .icone{
+        width: 20%;
     }
     .text{
-        width: 240px;
-        font-size: 12px;
-        margin-left: 30%;
-        margin-top: 170px;
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
     }
     main{
-        height: 1100px;
+        margin-top: 100px;
+        height: 1050px;
     }
     .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 35px;
-        margin-right:35px;
-        margin-top: 80px;
-    }
-    .discrip_psico{
-        margin-left: 140px;
-    }
-    .discrip_psico h4{
-        margin-left: 10px;
     }
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: -10px;
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
     }
     .discrip_psico .link_site{
-        margin-left: -100px;
-        margin-right: 0px;    
-        font-size: 14px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
     }
     .discrip_psico .link_repos{
-        float: right;
-        font-size: 14px;
-        margin-right: 0px;
-        width: 200px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
     }
-    
+  
     .portfolio_2{
-        margin-top: 80px;
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 35px;
-        margin-right:35px;
     }
-    .discrip_studio{
-        margin-top: 440px;
-        width: 400px;
-        margin-left: -40px;
-    }
-
     .discrip_studio h3{
-        align-items: center;
-        width: 260px;
-        margin-left: 160px;
         font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 50%;
+    }
+    .discrip_studio h4{
+        margin-left: 41%;
+        margin-top: 220%;
+        font-size: 12px;
     }
     .discrip_studio .link_site{
-        float: left;
-        font-size: 14px;
-        margin-top: 20px;
-        margin-left:100px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
     }
     .discrip_studio .link_repos{
-        float: right;
-        margin-top: -17px;
-        margin-right: -20px;
-        font-size: 14px;
-        width: 200px;
-    }
-
-    footer{
-        height: 140px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
     }
     footer h3{
-        font-size: 16px;
+        font-size: 14px;
     }
-    
-    footer p{
+    footer p {
         margin-top: 10%;
     }
 }
 
 @media (max-width:376px){
-    .intro{
-        margin-left: 6%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
-        font-size: 76px;
+        font-size: 60px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
     }
     .grupo_icones{
-        position: relative;
-        margin-left: 55%;
-        margin-top: -150px;
-        width: 40%;
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
     }
-    .grupo_icones a{
-        float: right;
+    .grupo_icones a .icone{
+        width: 20%;
     }
     .text{
-        width: 240px;
-        font-size: 12px;
-        margin-left: 30%;
-        margin-top: 170px;
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
     }
     main{
-        height: 1100px;
+        margin-top: 100px;
+        height: 1050px;
     }
     .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 35px;
-        margin-right:35px;
-        margin-top: 80px;
-    }
-    .discrip_psico{
-        margin-left: 120px;
-    }
-    .discrip_psico h4{
-        margin-left: 10px;
     }
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: -10px;
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 35%;
+    }
+    .discrip_psico h4{
+        margin-left: 42%;
+        margin-top: 95%;
+        font-size: 12px;
     }
     .discrip_psico .link_site{
-        margin-left: -100px;
-        margin-right: 0px;    
-        font-size: 14px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 20%;
     }
     .discrip_psico .link_repos{
-        float: right;
-        font-size: 14px;
-        margin-right: 0px;
-        width: 200px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
     }
-    
+  
     .portfolio_2{
-        margin-top: 80px;
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 35px;
-        margin-right:35px;
     }
-    .discrip_studio{
-        margin-top: 440px;
-        width: 400px;
-        margin-left: -60px;
-    }
-
     .discrip_studio h3{
-        align-items: center;
-        width: 260px;
-        margin-left: 160px;
         font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 28%;
+        text-align: center;
+        width: 55%;
+    }
+    .discrip_studio h4{
+        margin-left: 41%;
+        margin-top: 220%;
+        font-size: 12px;
     }
     .discrip_studio .link_site{
-        float: left;
-        font-size: 14px;
-        margin-top: 20px;
-        margin-left:80px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 20%;
     }
     .discrip_studio .link_repos{
-        float: right;
-        margin-top: -17px;
-        margin-right: -30px;
-        font-size: 14px;
-        width: 200px;
-    }
-
-    footer{
-        height: 140px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
     }
     footer h3{
-        font-size: 16px;
+        font-size: 14px;
     }
-    
-    footer p{
+    footer p {
         margin-top: 10%;
     }
 }
 
 @media (max-width:360px){
-    .intro{
-        margin-left: 6%;
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
-        font-size: 70px;
+        font-size: 58px;
+        width: 300px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
     }
     .grupo_icones{
-        position: relative;
-        margin-left: 55%;
-        margin-top: -130px;
-        width: 40%;
+        margin-left: 60%;
+        margin-top: -34%;
+        color: white;
     }
-    .grupo_icones a{
-        float: right;
-    }
-    .grupo_icones .icone{
-        width: 80%;
+    .grupo_icones a .icone{
+        width: 20%;
     }
     .text{
-        width: 200px;
+        margin-top: 28%;
         font-size: 10px;
-        margin-left: 30%;
-        margin-top: 170px;
+        margin-left: 40%;
+        width: 200px;
+        color: white;
     }
     main{
-        height: 1100px;
+        margin-top: 100px;
+        height: 900px;
     }
     .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 35px;
-        margin-right:35px;
-        margin-top: 80px;
-    }
-    .discrip_psico{
-        margin-left: 120px;
-    }
-    .discrip_psico h4{
-        margin-left: 10px;
     }
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: -10px;
-    }
-    .discrip_psico .link_site{
-        margin-left: -100px;
-        margin-right: 0px;    
         font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 30%;
     }
-    .discrip_psico .link_repos{
-        float: right;
-        font-size: 14px;
-        margin-right: 0px;
-        width: 200px;
-    }
-    
-    .portfolio_2{
-        margin-top: 80px;
-        width: 80%;
-        margin-left: 35px;
-        margin-right:35px;
-    }
-    .discrip_studio{
-        margin-top: 440px;
-        width: 400px;
-        margin-left: -60px;
-    }
-
-    .discrip_studio h3{
-        align-items: center;
-        width: 260px;
-        margin-left: 160px;
-        font-size: 14px;
-    }
-    .discrip_studio .link_site{
-        float: left;
-        font-size: 14px;
-        margin-top: 20px;
-        margin-left:80px;
-    }
-    .discrip_studio .link_repos{
-        float: right;
-        margin-top: -17px;
-        margin-right: -20px;
-        font-size: 14px;
-        width: 200px;
-    }
-
-    footer{
-        height: 140px;
-    }
-    footer h3{
+    .discrip_psico h4{
+        margin-left: 38%;
+        margin-top: 95%;
         font-size: 12px;
     }
-    
-    footer p{
+    .discrip_psico .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 15%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 55%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 20%;
+        text-align: center;
+        width: 60%;
+    }
+    .discrip_studio h4{
+        margin-left: 38%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 15%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 55%;
+    }
+    footer h3{
+        font-size: 14px;
+    }
+    footer p {
         margin-top: 10%;
     }
 }
 
-@media (max-width:280px){
-    .intro{
-        margin-left: 6%;
+@media (max-width:344px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
     }
-    
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        font-size: 14px;
+        color: white;
+    }
     .dev_title{
-        margin-left: 6%;
+        font-size: 44px;
         width: 200px;
-        font-size: 54px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
     }
     .grupo_icones{
-        position: relative;
-        margin-left: -39%;
-        margin-top: 10px;
-        width: 100%;
+        margin-left: 60%;
+        margin-top: -35%;
+        color: white;
     }
-    .grupo_icones a{
-        float: right;
-    }
-    .grupo_icones .icone{
-        margin-right: 5px;
-        width: 90%;
+    .grupo_icones a .icone{
+        width: 20%;
     }
     .text{
-        width: 200px;
+        margin-top: 28%;
         font-size: 10px;
-        margin-left: 20px;
-        margin-top: 80px;
+        margin-left: 20%;
+        width: 200px;
+        color: white;
     }
     main{
-        height: 900px;
+        margin-top: 50px;
+        height: 1000px;
     }
     .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 27px;
-        margin-right:27px;
-        margin-top: 80px;
-    }
-    .discrip_psico{
-        margin-left: 60px;
-    }
-    .discrip_psico h4{
-        margin-left: 10px;
     }
     .discrip_psico h3{
-        font-size: 16px;
-        margin-left: -10px;
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 25%;
+    }
+    .discrip_psico h4{
+        margin-left: 35%;
+        margin-top: 95%;
+        font-size: 12px;
     }
     .discrip_psico .link_site{
-        margin-left: 30px;
-        margin-right: 30px;    
-        font-size: 14px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
     }
     .discrip_psico .link_repos{
-        float: right;
-        font-size: 14px;
-        margin-right: 20px;
-        margin-left: 20px;
-        width: 200px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
     }
-    
+  
     .portfolio_2{
-        margin-top: 80px;
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
         width: 80%;
-        margin-left: 27px;
-        margin-right:27px;
     }
-    .discrip_studio{
-        margin-top: 340px;
-        width: 400px;
-        margin-left: -120px;
-    }
-
     .discrip_studio h3{
-        align-items: center;
-        width: 200px;
-        margin-left: 160px;
         font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 16%;
+        text-align: center;
+        width: 70%;
+    }
+    .discrip_studio h4{
+        margin-left: 35%;
+        margin-top: 220%;
+        font-size: 12px;
     }
     .discrip_studio .link_site{
-        float: left;
-        font-size: 14px;
-        margin-top: 20px;
-        margin-left:210px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 10%;
     }
     .discrip_studio .link_repos{
-        float: right;
-        margin-top: 20px;
-        margin-right: 20px;
-        font-size: 14px;
-        width: 200px;
-    }
-
-    footer{
-        height: 140px;
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 50%;
     }
     footer h3{
         font-size: 12px;
     }
-    
-    footer p{
-        margin-top: 10%;
+    footer p {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width:280px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        font-size: 14px;
+        color: white;
+    }
+    .dev_title{
+        font-size: 44px;
+        width: 200px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -35%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 10px;
+        margin-left: 20%;
+        width: 200px;
+        color: white;
+    }
+    main{
+        margin-top: 50px;
+        height: 780px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 25%;
+    }
+    .discrip_psico h4{
+        margin-left: 35%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 16%;
+        text-align: center;
+        width: 70%;
+    }
+    .discrip_studio h4{
+        margin-left: 35%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 10%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 50%;
+    }
+    footer h3{
+        font-size: 12px;
+    }
+    footer p {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width:272px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        font-size: 12px;
+        color: white;
+    }
+    .dev_title{
+        font-size: 34px;
+        width: 200px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -32%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 8px;
+        margin-left: 10%;
+        width: 200px;
+        color: white;
+    }
+    main{
+        margin-top: 50px;
+        height: 700px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 25%;
+    }
+    .discrip_psico h4{
+        margin-left: 35%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 12%;
+        text-align: center;
+        width: 80%;
+    }
+    .discrip_studio h4{
+        margin-left: 35%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 10%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 50%;
+    }
+    footer h3{
+        font-size: 12px;
+    }
+    footer p {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width:264px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        font-size: 12px;
+        color: white;
+    }
+    .dev_title{
+        font-size: 34px;
+        width: 200px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -32%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 8px;
+        margin-left: 10%;
+        width: 200px;
+        color: white;
+    }
+    main{
+        margin-top: 50px;
+        height: 700px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 25%;
+    }
+    .discrip_psico h4{
+        margin-left: 35%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 12%;
+        text-align: center;
+        width: 80%;
+    }
+    .discrip_studio h4{
+        margin-left: 35%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 10%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 10px;
+        position: absolute;
+        margin-top: 240%;
+        margin-left: 50%;
+    }
+    footer h3{
+        font-size: 12px;
+    }
+    footer p {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width:220px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        font-size: 12px;
+        color: white;
+    }
+    .dev_title{
+        font-size: 28px;
+        width: 150px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -32%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 8px;
+        margin-left: 15%;
+        width: 150px;
+        color: white;
+    }
+    main{
+        margin-top: 50px;
+        height: 640px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 15%;
+    }
+    .discrip_psico h4{
+        margin-left: 30%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 0%;
+        text-align: center;
+        width: 100%;
+    }
+    .discrip_studio h4{
+        margin-left: 30%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 250%;
+        margin-left: 10%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 250%;
+        margin-left: 50%;
+    }
+    footer h3{
+        font-size: 12px;
+    }
+    footer p {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width:200px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 10%;
+        margin-top: -1%;
+        font-size: 12px;
+        color: white;
+    }
+    .dev_title{
+        font-size: 28px;
+        width: 150px;
+        align-items: right;
+        margin-left: 10%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -32%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 8px;
+        margin-left: 15%;
+        width: 150px;
+        color: white;
+    }
+    main{
+        margin-top: 50px;
+        height: 640px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 14px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 15%;
+    }
+    .discrip_psico h4{
+        margin-left: 30%;
+        margin-top: 95%;
+        font-size: 12px;
+    }
+    .discrip_psico .link_site{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 130%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 14px;
+        margin-top: 225%;
+        position: absolute;
+        margin-left: 0%;
+        text-align: center;
+        width: 100%;
+    }
+    .discrip_studio h4{
+        margin-left: 30%;
+        margin-top: 220%;
+        font-size: 12px;
+    }
+    .discrip_studio .link_site{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 250%;
+        margin-left: 10%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 8px;
+        position: absolute;
+        margin-top: 250%;
+        margin-left: 50%;
+    }
+    footer h3{
+        font-size: 12px;
+    }
+    footer p {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width:180px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 0%;
+        margin-top: -1%;
+        font-size: 12px;
+        color: white;
+    }
+    .dev_title{
+        font-size: 22px;
+        width: 120px;
+        align-items: right;
+        margin-left: 0%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -38%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 8px;
+        margin-left: 0%;
+        width: 120px;
+        color: white;
+    }
+    main{
+        margin-top: 50px;
+        height: 500px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 12px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 10%;
+    }
+    .discrip_psico h4{
+        margin-left: 30%;
+        margin-top: 95%;
+        font-size: 10px;
+    }
+    .discrip_psico .link_site{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 140%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 12px;
+        margin-top: 235%;
+        position: absolute;
+        margin-left: 0%;
+        text-align: center;
+        width: 100%;
+    }
+    .discrip_studio h4{
+        margin-left: 30%;
+        margin-top: 230%;
+        font-size: 10px;
+    }
+    .discrip_studio .link_site{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 275%;
+        margin-left: 10%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 275%;
+        margin-left: 50%;
+    }
+    footer h3{
+        font-size: 12px;
+    }
+    footer p {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width:150px){
+    .full_intro{
+        width: 100%;
+        margin-top: 15%;
+    }
+    .intro{
+        margin-left: 0%;
+        margin-top: -1%;
+        font-size: 12px;
+        color: white;
+    }
+    .dev_title{
+        font-size: 22px;
+        width: 120px;
+        align-items: right;
+        margin-left: 0%;
+        color: white;
+    }
+    .grupo_icones{
+        margin-left: 60%;
+        margin-top: -38%;
+        color: white;
+    }
+    .grupo_icones a .icone{
+        width: 20%;
+    }
+    .text{
+        margin-top: 28%;
+        font-size: 8px;
+        margin-left: 0%;
+        width: 120px;
+        color: white;
+    }
+    main{
+        margin-top: 50px;
+        height: 500px;
+    }
+    .portfolio_1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_psico h3{
+        font-size: 12px;
+        margin-top: 100%;
+        position: absolute;
+        margin-left: 10%;
+    }
+    .discrip_psico h4{
+        margin-left: 30%;
+        margin-top: 95%;
+        font-size: 10px;
+    }
+    .discrip_psico .link_site{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 10%;
+    }
+    .discrip_psico .link_repos{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 110%;
+        margin-left: 50%;
+    }
+  
+    .portfolio_2{
+        position: absolute;
+        margin-top: 140%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .discrip_studio h3{
+        font-size: 12px;
+        margin-top: 235%;
+        position: absolute;
+        margin-left: 0%;
+        text-align: center;
+        width: 100%;
+    }
+    .discrip_studio h4{
+        margin-left: 30%;
+        margin-top: 230%;
+        font-size: 10px;
+    }
+    .discrip_studio .link_site{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 275%;
+        margin-left: 10%;
+    }
+    .discrip_studio .link_repos{
+        font-size: 6px;
+        position: absolute;
+        margin-top: 275%;
+        margin-left: 50%;
+    }
+    footer h3{
+        font-size: 12px;
+    }
+    footer p {
+        margin-top: 20%;
     }
 }
